@@ -1,0 +1,17 @@
+﻿{
+    "version":  "1.0.0",
+    "name":  "genpark-seo-metadata-agent-skill",
+    "outputs":  {
+                    "result_val":  {
+                                       "type":  "string"
+                                   }
+                },
+    "description":  "GenPark search optimization page metadata auto generator skill.",
+    "inputs":  {
+                   "input_val":  {
+                                     "type":  "string"
+                                 }
+               },
+    "author":  "alphaparkinc",
+    "prompt":  "Coordinate genpark-seo-metadata-agent-skill operations using the input configurations."
+}
